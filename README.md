@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning
+🌱 I’m currently learning Jetpack Compose
 
 
 ## 🌐 Socials:
